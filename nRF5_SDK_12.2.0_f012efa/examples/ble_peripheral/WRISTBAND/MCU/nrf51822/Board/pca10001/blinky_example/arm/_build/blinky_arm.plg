@@ -1,0 +1,275 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\blinky.uvproj
+Project File Date:  09/10/2013
+
+<h2>Output:</h2>
+Build target 'nrf51822_xxaa (256K)'
+Clean started - Project: 'blinky'
+   deleting intermediate output files for target 'nrf51822_xxaa (256K)'
+creating preprocessor file for main.c...
+compiling main.c...
+assembling startup_arm_nrf51.s...
+creating preprocessor file for system_nrf51.c...
+compiling system_nrf51.c...
+creating preprocessor file for nrf_delay.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+
+*** Performing Cross-Module-Optimization:
+compiling main.c...
+compiling system_nrf51.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+FromELF: creating hex file...
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+*** Completed Cross-Module-Optimization after 2 iteration(s).
+Rebuild target 'nrf51822_xxaa (256K)'
+Clean started - Project: 'blinky'
+   deleting intermediate output files for target 'nrf51822_xxaa (256K)'
+creating preprocessor file for main.c...
+compiling main.c...
+assembling startup_arm_nrf51.s...
+creating preprocessor file for system_nrf51.c...
+compiling system_nrf51.c...
+creating preprocessor file for nrf_delay.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+
+*** Performing Cross-Module-Optimization:
+compiling main.c...
+compiling system_nrf51.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+FromELF: creating hex file...
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+*** Completed Cross-Module-Optimization after 2 iteration(s).
+Load "C:\\Keil\\ARM\\Device\\Nordic\\nrf51822\\Board\\pca10001\\blinky_example\\arm\\_build\\blinky_arm.axf" 
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Full Chip Erase Done.
+Build target 'nrf51822_xxaa (256K)'
+Clean started - Project: 'blinky'
+   deleting intermediate output files for target 'nrf51822_xxaa (256K)'
+creating preprocessor file for main.c...
+compiling main.c...
+assembling startup_arm_nrf51.s...
+creating preprocessor file for system_nrf51.c...
+compiling system_nrf51.c...
+creating preprocessor file for nrf_delay.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+
+*** Performing Cross-Module-Optimization:
+compiling main.c...
+compiling system_nrf51.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+FromELF: creating hex file...
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+*** Completed Cross-Module-Optimization after 2 iteration(s).
+Load "C:\\Keil\\ARM\\Device\\Nordic\\nrf51822\\Board\\pca10001\\blinky_example\\arm\\_build\\blinky_arm.axf" 
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Full Chip Erase Done.
+Build target 'nrf51822_xxaa (256K)'
+Clean started - Project: 'blinky'
+   deleting intermediate output files for target 'nrf51822_xxaa (256K)'
+creating preprocessor file for main.c...
+compiling main.c...
+assembling startup_arm_nrf51.s...
+creating preprocessor file for system_nrf51.c...
+compiling system_nrf51.c...
+creating preprocessor file for nrf_delay.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+
+*** Performing Cross-Module-Optimization:
+compiling main.c...
+compiling system_nrf51.c...
+compiling nrf_delay.c...
+linking...
+Program Size: Code=544 RO-data=192 RW-data=0 ZI-data=2048  
+FromELF: creating hex file...
+".\_build\blinky_arm.axf" - 0 Errors, 0 Warning(s).
+*** Completed Cross-Module-Optimization after 2 iteration(s).
+Load "C:\\Keil\\ARM\\Device\\Nordic\\nrf51822\\Board\\pca10001\\blinky_example\\arm\\_build\\blinky_arm.axf" 
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Set JLink Project File to "C:\Keil\ARM\Device\Nordic\nrf51822\Board\pca10001\blinky_example\arm\JLinkSettings.ini"
+* JLink Info: Device "NRF51822_XXAA" selected (257 KB flash, 16 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.76d, compiled Sep 13 2013 16:35:06
+Firmware: J-Link OB-SAM3U128 V1 compiled Aug 27 2013 15:22:27
+Hardware: V1.00
+S/N : 480204160 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found Cortex-M0 r0p0, Little endian.
+* JLink Info: FPUnit: 4 code (BP) slots and 0 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 4
+Software-Breakpoints: 8192
+Watchpoints:          2
+JTAG speed: 2000 kHz
+ 
+Full Chip Erase Done.

@@ -1,0 +1,3 @@
+E:\Dharmesh\Project\Nordik\nRF5_SDK_12.2.0_f012efa\examples\ble_central\ble_app_multilink_central\pca10028\s130\arm5_no_packs - master 
+
+E:\Dharmesh\Project\Nordik\nRF5_SDK_12.2.0_f012efa\examples\ble_peripheral\experimental_ble_app_blinky\pca10028\s130\arm5_no_packs - slave 

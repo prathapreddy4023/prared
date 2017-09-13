@@ -1,0 +1,64 @@
+ Volume in drive E is E
+ Volume Serial Number is 9E52-434F
+
+ Directory of E:\prathapreddy\Nordik\nRF5_SDK_12.2.0_f012efa\examples\ble_peripheral\ble_app_hrs\pca10028\s130\arm5_no_packs\_build
+
+19-Aug-17  02:57 PM           288,628 app_button.o
+19-Aug-17  02:57 PM           271,748 app_error.o
+19-Aug-17  02:57 PM           267,676 app_error_weak.o
+19-Aug-17  10:55 AM           248,436 app_hr_twi.o
+19-Aug-17  02:57 PM           319,992 app_timer.o
+19-Aug-17  02:56 PM           248,796 app_twi.o
+19-Aug-17  02:57 PM           255,800 app_util_platform.o
+19-Aug-17  02:43 PM             4,612 arm_startup_nrf51.o
+19-Aug-17  02:57 PM           325,180 ble_advdata.o
+19-Aug-17  02:57 PM           344,496 ble_advertising.o
+19-Aug-17  02:57 PM           310,324 ble_bas.o
+19-Aug-17  02:57 PM           322,660 ble_conn_params.o
+19-Aug-17  02:57 PM           330,852 ble_conn_state.o
+19-Aug-17  02:57 PM           318,896 ble_dis.o
+19-Aug-17  02:57 PM           326,920 ble_hrs.o
+19-Aug-17  02:57 PM           313,856 ble_srv_common.o
+19-Aug-17  02:57 PM           273,776 boards.o
+19-Aug-17  02:57 PM           304,140 bsp.o
+19-Aug-17  02:57 PM           307,892 bsp_btn_ble.o
+19-Aug-17  02:57 PM           259,652 bsp_nfc.o
+19-Aug-17  02:57 PM           253,980 crc16.o
+19-Aug-17  02:57 PM           377,984 fds.o
+19-Aug-17  02:57 PM           291,532 fstorage.o
+19-Aug-17  02:57 PM           348,724 gatts_cache_manager.o
+19-Aug-17  02:57 PM           360,392 gatt_cache_manager.o
+19-Aug-17  02:57 PM           249,244 hardfault_implementation.o
+18-Aug-17  02:49 PM           337,124 hr_sensor.o
+19-Aug-17  02:57 PM           388,428 id_manager.o
+19-Aug-17  02:57 PM           491,040 main.o
+19-Aug-17  02:57 PM           235,176 nrf_assert.o
+19-Aug-17  02:57 PM           322,388 nrf_ble_gatt.o
+19-Aug-17  02:57 PM           388,416 nrf_drv_clock.o
+19-Aug-17  02:57 PM           280,636 nrf_drv_common.o
+19-Aug-17  02:57 PM           364,892 nrf_drv_gpiote.o
+19-Aug-17  02:57 PM           248,964 nrf_drv_rtc.o
+18-Aug-17  12:44 PM           304,552 nrf_drv_swi.o
+19-Aug-17  02:57 PM           248,968 nrf_drv_twi.o
+19-Aug-17  02:57 PM           353,220 nrf_drv_uart.o
+19-Aug-17  02:57 PM           249,180 nrf_log_backend_serial.o
+19-Aug-17  02:57 PM           249,044 nrf_log_frontend.o
+19-Aug-17  02:57 PM           330,620 peer_data.o
+19-Aug-17  02:57 PM           374,496 peer_database.o
+19-Aug-17  02:57 PM           374,144 peer_data_storage.o
+19-Aug-17  02:57 PM           342,824 peer_id.o
+19-Aug-17  02:57 PM           420,052 peer_manager.o
+19-Aug-17  02:57 PM           260,032 pm_buffer.o
+19-Aug-17  02:57 PM           281,360 pm_mutex.o
+19-Aug-17  02:57 PM            10,184 rtt_syscalls_keil.o
+19-Aug-17  02:57 PM            26,452 sdk_errors.o
+19-Aug-17  02:57 PM           248,684 sdk_mapped_flags.o
+19-Aug-17  02:57 PM           370,228 security_dispatcher.o
+19-Aug-17  02:57 PM           368,096 security_manager.o
+19-Aug-17  02:57 PM           295,180 segger_rtt.o
+19-Aug-17  02:57 PM            10,184 segger_rtt_printf.o
+19-Aug-17  02:57 PM            23,248 sensorsim.o
+19-Aug-17  02:57 PM           376,212 softdevice_handler.o
+19-Aug-17  02:57 PM           220,672 system_nrf51.o
+              57 File(s)     16,320,884 bytes
+               0 Dir(s)  174,669,504,512 bytes free
